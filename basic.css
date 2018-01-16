@@ -1,0 +1,19 @@
+body {
+	color:rgb(0,0,0);
+	background-color:rgb(174,174,174);
+	text-align:justify;
+	line-spacing:1.8;
+	margin-top:0px;
+	margin-bottom:4px;
+	margin-right:50px;
+	margin-left:50px;
+	text-indent:3em;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+	color:black;
+	text-align:center;
+	font-style:italic;
+	font-weight:bold;
+} 
